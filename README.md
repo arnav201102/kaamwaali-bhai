@@ -26,7 +26,7 @@ People are interested in a centralized website which would help them request and
 ![image](https://user-images.githubusercontent.com/92265136/191025961-0e653e48-0ed8-4416-8582-2b0a438f02d7.png)
 ![image](https://user-images.githubusercontent.com/92265136/191025965-52f636d4-3cd3-4a7b-b7e1-bd908a482896.png)
 
-# prototype
+# Prototype
 Login
 ![image](https://user-images.githubusercontent.com/92265136/191026018-f4d2196d-a43a-487b-9ab8-ab8f6f6787ee.png)
 Home
